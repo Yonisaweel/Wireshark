@@ -14,12 +14,13 @@ The goal of this project is to demonstrate the efficient analysis of a PCAP file
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download VirtualBox: <br/>
-<img src="https://i.imgur.com/1wDBSFK.png" height="80%" width="80%" alt="Wireshark Steps"/>
+We begin our investigation by visiting malware-traffic-analysis.net, a great resource that provides PCAPs for skill development. Next, we go to the 2024 PCAPs section and choose the entry for January 12, 2024 (Friday): Malspam Distribution StealC Malware. Right-click on the PCAP zip file and copy the link.<br/>
+ <br />
+<img src="https://i.imgur.com/VRVS2NC.png" height="80%" width="80%" alt="Wireshark Steps"/>
 <br />
 <br />
-Download Windows 10:  <br/>
-<img src="https://i.imgur.com/cjeEatE.png" height="80%" width="80%" alt="Wireshark Steps"/>
+Boot Ubuntu:  <br/>
+<img src="https://i.imgur.com/qGb0Gpp.png" height="80%" width="80%" alt="Wireshark Steps"/>
 <br />
 <br />
 </p>
